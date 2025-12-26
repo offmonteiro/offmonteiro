@@ -15,8 +15,6 @@ UNICEUB student, taking my first graduation in computer science 💻🇧🇷
 
 ##
 
-<a href="https://www.linkedin.com/in/felipe-monteiro-4581ab304/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
 <details>
   <summary>Github Stats 📈</summary>
   
